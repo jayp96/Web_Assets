@@ -1,3 +1,8 @@
+$(document).ready(function(){
+
+ $(".vatab2").hide();
+});
+
 $(function () {
     var body = $('header');
     var backgrounds = [
@@ -16,4 +21,48 @@ $(function () {
     }
     setTimeout(nextBackground, 2000);
     body.css('background-image', backgrounds[0]);
+});
+
+
+
+
+
+$(".vb2").click(function(){
+    $(".vatab1").hide();
+    $(".vatab2").show();
+    $(".vb1").removeClass('active');
+    $(".vb2").addClass('active');
+
+});
+
+$(".vb1").click(function(){
+    $(".vatab2").hide();
+    $(".vatab1").show();
+    $(".vb2").removeClass('active');
+    $(".vb1").addClass('active');
+
+});
+
+
+$(".fic").click(function()
+      {
+    $('html, body').animate({
+        scrollTop: $("#valuation").offset().top
+    }, 2000);
+    
+});
+
+$(".sic").click(function()
+      {
+    $('html, body').animate({
+        scrollTop: $("#").offset().top
+    }, 2000);
+    
+});
+$(".tic").click(function()
+      {
+    $('html, body').animate({
+        scrollTop: $("#").offset().top
+    }, 2000);
+    
 });
