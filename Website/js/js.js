@@ -55,14 +55,21 @@ $(".fic").click(function()
 $(".sic").click(function()
       {
     $('html, body').animate({
-        scrollTop: $("#").offset().top
+        scrollTop: $("#advertise").offset().top
     }, 2000);
     
 });
 $(".tic").click(function()
       {
     $('html, body').animate({
-        scrollTop: $("#").offset().top
+        scrollTop: $("#sellbuy").offset().top
     }, 2000);
     
 });
+
+
+
+$('.gototop').click(function(){
+    $("html, body").animate({ scrollTop: 0 }, 600);
+    return false;
+ });
