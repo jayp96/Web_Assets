@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Web Assests</title>
+
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+
+
+    <!-- Theme JavaScript -->
+    <script src="js/agency.min.js"></script>
+    <script src="js/js.js"></script>
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link href="css/agency.css" rel="stylesheet">
+    <!-- Theme CSS 
+    <link href="css/agency.min.css" rel="stylesheet">-->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    </head>
+
+    <body id="page-top" class="index">
+
+        <!-- Navigation -->
+        <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
+            <div class="container">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header page-scroll">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand page-scroll" href="index.html">Web Assests</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="hidden">
+                            <a href="#page-top"></a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#">Home</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#valuation">Valuation</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#advertise">Advertise</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="#sellbuy">Sell/Buy</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="about.html">About</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="login.html">Login</a>
+                        </li>
+                        <li>
+                            <a class="page-scroll" href="signup.html">Sign Up</a>
+                        </li>
+
+
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+
+        <!-- Header -->
+        <header>
+            <div class="container">
+                <div class="intro-text">
+                    <div class="intro-lead-in tag1" >Now make the most out of your</div>
+                    <div class="intro-heading tag2" >FaceBook Page !  </div>
+                    <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                </div>
+            </div>
+        </header>
+
+        <!-- Services Section -->
+        <section id="services">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">What We Do </h2>
+                        <h3 class="section-subheading text-muted">No More Just A Facebook Page</h3>
+                    </div>
+                </div>
+                <div class="row text-center">
+
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-money fa-stack-1x fa-inverse fic"></i>
+                        </span>
+                        <h4 class="service-heading">Valuation of Facebook Page</h4>
+                        <p class="text-muted">Determine Your Facebook Page’s Value</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-bullhorn fa-stack-1x fa-inverse sic"></i>
+                        </span>
+                        <h4 class="service-heading">Facebook Page Advertisement </h4>
+                        <p class="text-muted">Data</p>
+                    </div>
+                    <div class="col-md-4">
+                        <span class="fa-stack fa-4x">
+                            <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fa fa-shopping-cart fa-stack-1x fa-inverse tic" ></i>
+                        </span>
+                        <h4 class="service-heading">Buys/Sell Fb Pages</h4>
+                        <p class="text-muted">The #1 place to buy and sell facebook fanpages</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+
+        <!-- Portfolio Grid Section -->
+
+        <section id="valuation" class="bg-light-gray" style="padding: 0px; height: 100%;">
+
+            <div class="row" style="margin: 0px; height: 100%;">
+
+                <div class="col-md-6 lb" style="height: 100%;">
+
+
+
+                    <div class="bar">
+                       <button class="btn active  vb1  ">WHAT </button>
+                       <button class="btn  vb2 ">WHY</button>
+                   </div>
+
+
+
+                   <div class="desc vatab1">
+                    <div class="desc-header">
+                        What Is Valuation ? <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+
+                    </div>
+                    <div class="desc-content">
+                        <i class="fa fa-star-o" aria-hidden="true">
+
+                            Facebook likes are worth a lot
+
+                        </i>
+                        <br/>
+
+                        <i class="fa fa-star-o" aria-hidden="true">
+
+                            Check how many likes a page has and the value of the Facebook Page
+
+                        </i>
+
+                    </div>
+                    <center>
+                        <a href="#" class=" btn btn-xl desc-btn">Get Valuation </a>
+                    </center>
+                </div>
+                <div class="desc vatab2">
+                    <div class="desc-header">
+                        Why Should I Evaluate? <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+
+                    </div>
+                    <div class="desc-content">
+                        <i class="fa fa-star-o" aria-hidden="true">
+
+                            Know page worth and potential 
+
+                        </i>
+                        <br/>
+
+                        <i class="fa fa-star-o" aria-hidden="true">
+
+                            DATA 
+                        </i>
+                        <br/>
+
+                        <i class="fa fa-star-o" aria-hidden="true">
+
+                            DATA 
+                        </i>
+
+                    </div>
+                    <center>
+                        <a href="#" class=" btn btn-xl desc-btn">Get Valuation</a>
+                    </center>
+                </div>
+
+            </div>
+            <div class="col-md-6 " style="padding: 0px; height: 100%;">
+
+
+             <img src="img/money.jpg" style="width: 100%;height: 100%">
+
+         </div>
+
+
+     </div>
+
+ </section>
+
+
+
+ <section id="advertise" class="bg-light-gray" style="padding: 0px; height: 100%;">
+
+    <div class="row" style="margin: 0px; height: 100%;">
+        <div class="col-md-6 " style="padding: 0px; height: 100%;">
+
+
+         <img src="img/advertise.jpg" style="width: 100%;height: 100%">
+
+     </div>
+
+
+
+
+     <div class="col-md-6 lb" style="height: 100%;">
+
+
+
+        <div class="bar">
+           <button class="btn active  vb1  ">WHAT </button>
+           <button class="btn  vb2 ">WHY</button>
+       </div>
+
+
+
+       <div class="desc vatab1">
+        <div class="desc-header">
+            What Is ADVERTISING ? <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+
+        </div>
+        <div class="desc-content">
+            <i class="fa fa-star-o" aria-hidden="true">
+
+                data
+
+            </i>
+            <br/>
+
+            <i class="fa fa-star-o" aria-hidden="true">
+
+                data
+            </i>
+
+        </div>
+        <center>
+            <a href="#" class=" btn btn-xl desc-btn">Get Valuation  </a>
+        </center>
+    </div>
+    <div class="desc vatab2">
+        <div class="desc-header">
+            Why Should I Advertise? <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+
+        </div>
+        <div class="desc-content">
+            <i class="fa fa-star-o" aria-hidden="true">
+
+               data 
+
+           </i>
+           <br/>
+
+           <i class="fa fa-star-o" aria-hidden="true">
+
+            DATA 
+        </i>
+        <br/>
+
+        <i class="fa fa-star-o" aria-hidden="true">
+
+            DATA 
+        </i>
+
+    </div>
+    <center>
+        <a href="#" class=" btn btn-xl desc-btn">Get Valuation</a>
+    </center>
+</div>
+
+</div>
+</div>
+
+
+
+</section>
+
+<section id="sellbuy" class="bg-light-gray" style="padding: 0px; height: 100%;">
+
+    <div class="row" style="margin: 0px; height: 100%;">
+
+
+
+
+
+     <div class="col-md-6 lb" style="height: 100%;">
+
+
+
+        <div class="bar">
+           <button class="btn active  vb1  ">Buy </button>
+           <button class="btn  vb2 ">Sell</button>
+       </div>
+
+
+
+       <div class="desc vatab1">
+        <div class="desc-header">
+            Buy Data <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+        </div>
+        <div class="desc-content">
+            <i class="fa fa-star-o" aria-hidden="true">
+
+                data
+
+            </i>
+            <br/>
+
+            <i class="fa fa-star-o" aria-hidden="true">
+
+                data
+            </i>
+
+        </div>
+        <center>
+            <a href="#" class=" btn btn-xl desc-btn">Buy  </a>
+        </center>
+    </div>
+    <div class="desc vatab2">
+        <div class="desc-header">
+            Why Should I Sell ? <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+
+        </div>
+        <div class="desc-content">
+            <i class="fa fa-star-o" aria-hidden="true">
+
+               data 
+
+           </i>
+           <br/>
+
+           <i class="fa fa-star-o" aria-hidden="true">
+
+            DATA 
+        </i>
+        <br/>
+
+        <i class="fa fa-star-o" aria-hidden="true">
+
+            DATA 
+        </i>
+
+    </div>
+    <center>
+        <a href="#" class=" btn btn-xl desc-btn">Sell</a>
+    </center>
+</div>
+
+</div>
+<div class="col-md-6 " style="padding: 0px; height: 100%;">
+
+
+ <img src="img/buy_sell3.jpg" style="width: 100%;height: 100%">
+
+</div>
+</div>
+
+
+
+</section>
+
+
+
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 ">
+               <button class="gototop"> <i class="fa fa-arrow-up " aria-hidden="true"></i> </button>
+
+
+           </div>
+
+       </div>
+       <div class="row">
+        <div class="col-md-12 ">
+         <button class="gototop"> BACK TO TOP </button>
+
+     </div>
+
+ </div>
+
+ <div class="row">
+    <div class="col-md-4">
+        <span class="copyright">Copyright &copy;  Web Assets 2016</span>
+    </div>
+    <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+            <li><a href="#"><i class="fa fa-twitter"></i></a>
+            </li>
+            <li><a href="#"><i class="fa fa-facebook"></i></a>
+            </li>
+            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+            <li><a href="#">Report Problem</a>
+            </li>
+            <li><a href="#">FAQ</a>
+            </li>
+            <li><a href="#">About</a>
+            </li>
+            <li><a href="#">Terms of Use</a>
+            </li>
+        </ul>
+    </div>
+</div>
+</div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- jQuery -->
+<script src="vendor/jquery/jquery.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+
+
+
+<!-- Theme JavaScript -->
+<script src="js/agency.min.js"></script>
+<script src="js/js.js"></script>
+<!-- Bootstrap Core CSS -->
+
+</body>
+
+</html>
